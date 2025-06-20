@@ -1,6 +1,3 @@
-# Traffic-Light-Integrating-with-Servo-Motor-using-Arduino-UNO-
-Designed for a smart traffic management system that simulates real-world traffic control. 
-
 # Weather API-Based Microcontroller Project
 This project is a microcontroller-based embedded system that fetches real-time weather data using a Weather API and displays key environmental parameters such as temperature, humidity, and weather conditions. It is designed to demonstrate API integration within an embedded C++ application for live environmental monitoring.
 
